@@ -1,1 +1,65 @@
-
+{
+  "conteudos": [
+    {
+      "id": 1,
+      "titulo": "Drugovich vê esperança de vaga na F1 2025 na Williams em meio à indecisão de Sainz",
+      "descricao": "Em meio aos rumores de que Carlos Sainz pode se mudar para a Alpine, Williams recalcula rota e coloca Felipe Drugovich em seus planos para a Fórmula 1 2025",
+      "imagem": "/assets/img/noticia-4.png",
+      "link": "https://www.grandepremio.com.br/f1/noticias/felipe-drugovich-ve-esperanca-vaga-f1-2025-williams-em-meio-a-indecisao-carlos-sainz/"
+    },
+    {
+      "id": 2,
+      "titulo": "Ex-São Paulo e América-MG, Aloísio 'Boi Bandido' anuncia aposentadoria aos 36 anos",
+      "descricao": "Jogador fez carreira na China e não atua desde o fim do ano passado, quando deixou o Coelho",
+      "imagem": "/assets/img/noticia-5.png",
+      "link": "https://ge.globo.com/mg/futebol/noticia/2024/06/24/ex-sao-paulo-e-america-mg-atacante-aloisio-anuncia-aposentadoria-aos-36-anos.ghtml"
+    },
+    {
+      "id": 3,
+      "titulo": "Fernando Alonso renova com Aston Martin",
+      "descricao": "Piloto mais experiente do grid, bicampeão mundial da F1 se inspirou em icônica nota oficial de retorno de Jordan à NBA em 1995, ao confirmar que segue com a equipe britânica até 2026",
+      "imagem": "/assets/img/noticia-1.png",
+      "link": "https://ge.globo.com/motor/formula-1/noticia/2024/04/11/fernando-alonso-renova-com-aston-martin-em-estilo-michael-jordan.ghtml"
+    },
+    {
+      "id": 4,
+      "titulo": "Mercedes negocia com Sainz por vaga de Hamilton, diz site italiano",
+      "descricao": "Piloto espanhol deixará a Ferrari ao fim da atual temporada para a chegada de Hamilton em 2025; chefe da Mercedes já declarou publicamente que Sainz é uma opção para a equipe",
+      "imagem": "/assets/img/noticia-2.png",
+      "link": "https://ge.globo.com/motor/formula-1/noticia/2024/04/12/mercedes-negocia-com-sainz-por-vaga-de-hamilton-diz-site-italiano.ghtml"
+    },
+    {
+      "id": 5,
+      "titulo": "Quem foi Peter Higgs, o cientista que descobriu a 'partícula de Deus'?",
+      "descricao": "Ele recebeu o Prêmio Nobel de Física em 2013, após outros cientistas confirmarem a previsão feita pelo físico britânico em 1964, provando estar à frente de seu tempo.",
+      "imagem": "/assets/img/noticia-3.png",
+      "link": "https://www.nationalgeographicbrasil.com/ciencia/2024/04/quem-foi-peter-higgs-o-cientista-que-descobriu-a-particula-de-deus"
+    }
+  ],
+  "colegas": [
+    {
+      "id": 1,
+      "nome": "Matheus Greco Morais Dall'Alba",
+      "foto": "/assets/img/colega-1.png",
+      "github": "https://github.com/GRECO-flameel"
+    },
+    {
+      "id": 2,
+      "nome": "Rayssa Mell de Souza Silva",
+      "foto": "/assets/img/colega-2.png",
+      "github": "https://github.com/rayssamell"
+    },
+    {
+      "id": 3,
+      "nome": "Luis Henrique Ferreira Costa",
+      "foto": "/assets/img/colega-3.png",
+      "github": "https://github.com/LuisHenriqueDC301"
+    }
+  ],
+  "repositorio": [
+    {
+      "id": 0,
+      "pagina": "site-pessoal-diw"
+    }
+  ]
+}
